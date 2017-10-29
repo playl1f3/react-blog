@@ -1,0 +1,26 @@
+{
+  "blog": [
+    {
+      "id": 1,
+      "title": "My First Blog Post",
+      "content": "This is the content for my first blog post. Hello all!",
+      "comments": [
+        {
+          "id": 1,
+          "user": "Blake",
+          "content": "This is great!"
+        },
+        {
+          "id": 2,
+          "user": "Jack",
+          "content": "This is just ok."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Second Post",
+      "content": "Time for my second post. This is another time to say hello."
+    }
+  ]
+}
